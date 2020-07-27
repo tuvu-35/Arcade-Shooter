@@ -12,7 +12,7 @@
     python main.py
 
 ## Usage
-    Use arrow keys up, down, left, right to move spaceship accordingly.
-    Press space to shoot bullet.
-    Fight against enemy spacecraft and aim for highest score.
+    Use arrow keys up, down, left, right to move your spaceship accordingly.
+    Press space to shoot a bullet.
+    Fight against enemy spacecrafts and aim for highest score.
     Enjoy the game!
